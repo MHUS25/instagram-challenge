@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/MHUS25/instagram-challenge.svg?branch=master)](https://travis-ci.org/MHUS25/instagram-challenge)
+
 # README
 
 This README would normally document whatever steps are necessary to get the
